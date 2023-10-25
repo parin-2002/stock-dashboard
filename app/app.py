@@ -67,7 +67,7 @@ def update_data():
 
 
 # Read the 'tickers.xlsx' file
-data = pd.read_csv('tickers.csv')  #use read_excel if needed 
+data = pd.read_csv('https://raw.githubusercontent.com/parin-2002/STOCK-APP-AS-2/main/app/tickers.csv?token=GHSAT0AAAAAACIDZ4JAPBU7MAO4ABIUQKKKZJY3ZTQ')  #use read_excel if needed 
 
 # Get the list of available countries and remove null values
 available_countries = data['Country'].dropna().unique()
