@@ -8,7 +8,7 @@ This application provides a real-time dashboard for stock market data, ideal for
 ## Installation
 To install the required modules, follow these steps:
 
-1. Download the zip file from the Part-2 folder which contains the `requirements.txt` file.
+1. Download the zip file.
 2. Extract the contents of the zip file.
 
 ## Setup and Execution
